@@ -20,6 +20,7 @@ namespace LABB5
             float area = _Radius * _Radius * _pi;
             Console.WriteLine($"Arean för cirkel med {_Radius} i radie är: {area}");
             return area;
+
         }
     }
 }
